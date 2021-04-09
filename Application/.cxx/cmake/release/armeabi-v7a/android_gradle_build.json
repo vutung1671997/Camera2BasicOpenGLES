@@ -1,0 +1,58 @@
+{
+  "stringTable": {
+    "0": "E:/1.CAMERA/android-Camera2Basic-OpenGL/Application/.cxx/cmake/release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/TungVD/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/TungVD/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbyteflow_render_EXPORTS -I../../../../src/main/cpp/util -I../../../../src/main/cpp/render -I../../../../src/main/cpp/glm -I../../../../src/main/cpp/context -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=c++11 -Oz -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\CMakeLists.txt",
+    "C:\\Users\\TungVD\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\TungVD\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\TungVD\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\TungVD\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "byteflow_render-Release-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\TungVD\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\.cxx\\cmake\\release\\armeabi-v7a\" byteflow_render",
+      "buildType": "release",
+      "toolchain": "3155693815",
+      "abi": "armeabi-v7a",
+      "artifactName": "byteflow_render",
+      "files": [
+        {
+          "src": "E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\src\\main\\cpp\\JniImpl.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\src\\main\\cpp\\render\\GLByteFlowRender.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\src\\main\\cpp\\render\\GLUtils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\src\\main\\cpp\\context\\RenderContext.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libbyteflow_render.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3155693815": {
+      "cppCompilerExecutable": "C:\\Users\\TungVD\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,25 @@
+[
+{
+  "directory": "E:/1.CAMERA/android-Camera2Basic-OpenGL/Application/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\TungVD\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/TungVD/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/TungVD/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dbyteflow_render_EXPORTS -I../../../../src/main/cpp/util -I../../../../src/main/cpp/render -I../../../../src/main/cpp/glm -I../../../../src/main/cpp/context  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\byteflow_render.dir\\src\\main\\cpp\\JniImpl.cpp.o -c E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\src\\main\\cpp\\JniImpl.cpp",
+  "file": "E:/1.CAMERA/android-Camera2Basic-OpenGL/Application/src/main/cpp/JniImpl.cpp"
+},
+
+{
+  "directory": "E:/1.CAMERA/android-Camera2Basic-OpenGL/Application/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\TungVD\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/TungVD/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/TungVD/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dbyteflow_render_EXPORTS -I../../../../src/main/cpp/util -I../../../../src/main/cpp/render -I../../../../src/main/cpp/glm -I../../../../src/main/cpp/context  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\byteflow_render.dir\\src\\main\\cpp\\render\\GLByteFlowRender.cpp.o -c E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\src\\main\\cpp\\render\\GLByteFlowRender.cpp",
+  "file": "E:/1.CAMERA/android-Camera2Basic-OpenGL/Application/src/main/cpp/render/GLByteFlowRender.cpp"
+},
+
+{
+  "directory": "E:/1.CAMERA/android-Camera2Basic-OpenGL/Application/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\TungVD\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/TungVD/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/TungVD/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dbyteflow_render_EXPORTS -I../../../../src/main/cpp/util -I../../../../src/main/cpp/render -I../../../../src/main/cpp/glm -I../../../../src/main/cpp/context  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\byteflow_render.dir\\src\\main\\cpp\\render\\GLUtils.cpp.o -c E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\src\\main\\cpp\\render\\GLUtils.cpp",
+  "file": "E:/1.CAMERA/android-Camera2Basic-OpenGL/Application/src/main/cpp/render/GLUtils.cpp"
+},
+
+{
+  "directory": "E:/1.CAMERA/android-Camera2Basic-OpenGL/Application/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\TungVD\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/TungVD/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/TungVD/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dbyteflow_render_EXPORTS -I../../../../src/main/cpp/util -I../../../../src/main/cpp/render -I../../../../src/main/cpp/glm -I../../../../src/main/cpp/context  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\byteflow_render.dir\\src\\main\\cpp\\context\\RenderContext.cpp.o -c E:\\1.CAMERA\\android-Camera2Basic-OpenGL\\Application\\src\\main\\cpp\\context\\RenderContext.cpp",
+  "file": "E:/1.CAMERA/android-Camera2Basic-OpenGL/Application/src/main/cpp/context/RenderContext.cpp"
+}
+]

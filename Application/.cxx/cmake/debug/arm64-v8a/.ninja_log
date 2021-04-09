@@ -1,0 +1,6 @@
+# ninja log v5
+1	638	639644049	CMakeFiles/byteflow_render.dir/src/main/cpp/JniImpl.cpp.o	69d5ee995ca46a94
+11	657	639644049	CMakeFiles/byteflow_render.dir/src/main/cpp/context/RenderContext.cpp.o	df7f5cc61b0534c8
+5	773	639644049	CMakeFiles/byteflow_render.dir/src/main/cpp/render/GLUtils.cpp.o	c62dcb1300e7619a
+9	948	639644050	CMakeFiles/byteflow_render.dir/src/main/cpp/render/GLByteFlowRender.cpp.o	51d9a13570747de1
+949	1120	639644050	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libbyteflow_render.so	6bd859aa2fe88a53
